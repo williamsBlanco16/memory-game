@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##`Installation`
+
+1. git clone  https://github.com/williamsBlanco16/memory-game.git
+
+2. cd memory-game
+
+3. npm install or yarn install
+
+4. npm run start or yarn start
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
