@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##`Installation`
+## Installation
 
 1. git clone  https://github.com/williamsBlanco16/memory-game.git
 
@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 3. npm install or yarn install
 
-4. npm run start or yarn start
+4. npm start or yarn start
 
 
 
